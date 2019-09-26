@@ -1,0 +1,24 @@
+{
+  "name": "jaguar-xe",
+  "version": "1.0.0",
+  "description": "Landing para Jaguar XE",
+  "main": "index.js",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oventura19/jaguar-xe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oventura19/jaguar-xe/issues"
+  },
+  "homepage": "https://github.com/Oventura19/jaguar-xe#readme"
+}
